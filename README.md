@@ -1,4 +1,4 @@
-# MusicAnalysis
+# MusicAnalysis 🎹
 
 ## Overview
 This project explores trends in music listening habits using the **Subset of the Million Song Dataset** from Kaggle. The analysis investigates:
@@ -29,7 +29,7 @@ To analyze genre trends, artists are mapped to genres using a predefined diction
 
 ---
 
-## Installation and Setup
+## Installations
 
 ### Prerequisites
 - Python 3.8+
