@@ -98,5 +98,5 @@ This project is licensed under the MIT License.
 ## Contact
 For questions or collaboration, contact:
 - **Name**: samriddhisharma.vis@gmail.com
-- GitHub: [[yourusername](https://github.com/sam-913)]
+- GitHub: [[Samriddhi's Github](https://github.com/sam-913)]
 
