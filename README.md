@@ -97,6 +97,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or collaboration, contact:
-- **Your Name**: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- **Name**: samriddhisharma.vis@gmail.com
+- GitHub: [[yourusername](https://github.com/sam-913)]
 
